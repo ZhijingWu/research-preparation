@@ -1,0 +1,26 @@
+@"
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary / generated data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore

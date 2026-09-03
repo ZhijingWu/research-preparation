@@ -8,8 +8,8 @@ A four-week research preparation repository covering deep learning foundations, 
 ### Week 1 — Deep Learning / PyTorch
 - [x] Day 1: Tensor & Autograd
 - [x] Day 2: Linear Regression & Softmax
-- [ ] Day 3: MLP & Backpropagation
-- [ ] Day 4: Optimization
+- [x] Day 3: MLP & Backpropagation
+- [x] Day 4: Optimization
 - [ ] Day 5: Regularization & Normalization
 - [ ] Day 6: CNN
 - [ ] Day 7: Weekly Review

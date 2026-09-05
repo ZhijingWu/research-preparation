@@ -10,9 +10,9 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Day 2: Linear Regression & Softmax
 - [x] Day 3: MLP & Backpropagation
 - [x] Day 4: Optimization
-- [ ] Day 5: Regularization & Normalization
-- [ ] Day 6: CNN
-- [ ] Day 7: Weekly Review
+- [x] Day 5: Regularization & Normalization
+- [x] Day 6: CNN
+- [x] Day 7: Weekly Review
 
 ### Week 2 — Graph Neural Networks
 - [ ] Graph Basics

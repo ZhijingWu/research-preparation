@@ -15,11 +15,13 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Day 7: Weekly Review
 
 ### Week 2 — Graph Neural Networks
-- [ ] Graph Basics
-- [ ] Message Passing
+- [x] Graph Basics
+- [x] Graph Representation Learning / Node Embeddings
+- [x] Message Passing / GNN Foundations
 - [ ] GCN
 - [ ] GraphSAGE
 - [ ] GAT
+- [ ] Week 2 Mini Project
 
 ### Week 3 — LLM Agents / Graph x LLM
 - [ ] LLM Inference

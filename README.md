@@ -35,4 +35,5 @@ A four-week research preparation repository covering deep learning foundations, 
 - [ ] Repository Understanding
 - [ ] Baseline Reproduction
 - [ ] Small Modification Experiment
+
 "@ | Set-Content README.md

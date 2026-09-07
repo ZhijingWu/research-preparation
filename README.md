@@ -19,9 +19,9 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Graph Representation Learning / Node Embeddings
 - [x] Message Passing / GNN Foundations
 - [x] GCN
-- [ ] GraphSAGE
-- [ ] GAT
-- [ ] Week 2 Mini Project
+- [x] GraphSAGE
+- [x] GAT
+- [x] Week 2 Mini Project
 
 ### Week 3 — LLM Agents / Graph x LLM
 - [ ] LLM Inference

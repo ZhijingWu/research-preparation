@@ -24,7 +24,7 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Week 2 Mini Project
 
 ### Week 3 — LLM Agents / Graph x LLM
-- [ ] LLM Inference
+- [x] LLM Inference
 - [ ] ReAct
 - [ ] Mini Agent
 - [ ] Graph x LLM Map

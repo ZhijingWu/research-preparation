@@ -28,7 +28,7 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] ReAct
 - [x] Mini Agent
 - [x] Graph x LLM Map
-- [ ] Graph RAG / KG
+- [x] Graph RAG / KG
 
 ### Week 4 — Research Training
 - [ ] Paper Reading

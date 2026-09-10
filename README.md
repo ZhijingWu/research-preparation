@@ -31,9 +31,12 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Graph RAG / KG
 
 ### Week 4 — Research Training
-- [ ] Paper Reading
+- [x] Paper Selection & Reading
+- [ ] Paper Decomposition
 - [ ] Repository Understanding
 - [ ] Baseline Reproduction
-- [ ] Small Modification Experiment
+- [ ] Controlled Experiment / Ablation
+- [ ] Error Analysis
+- [ ] Research Memo
 
 "@ | Set-Content README.md

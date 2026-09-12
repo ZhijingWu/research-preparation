@@ -32,7 +32,7 @@ A four-week research preparation repository covering deep learning foundations, 
 
 ### Week 4 — Research Training
 - [x] Paper Selection & Reading
-- [ ] Paper Decomposition
+- [x] Paper Decomposition
 - [ ] Repository Understanding
 - [ ] Baseline Reproduction
 - [ ] Controlled Experiment / Ablation

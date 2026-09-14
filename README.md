@@ -34,7 +34,7 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Paper Selection & Reading
 - [x] Paper Decomposition
 - [x] Repository Understanding
-- [ ] Baseline Reproduction
+- [x] Baseline Reproduction
 - [ ] Controlled Experiment / Ablation
 - [ ] Error Analysis
 - [ ] Research Memo

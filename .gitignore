@@ -20,6 +20,8 @@ env/
 .vscode/
 .idea/
 
+repos/
+
 # OS
 .DS_Store
 Thumbs.db

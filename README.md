@@ -35,8 +35,8 @@ A four-week research preparation repository covering deep learning foundations, 
 - [x] Paper Decomposition
 - [x] Repository Understanding
 - [x] Baseline Reproduction
-- [ ] Controlled Experiment / Ablation
-- [ ] Error Analysis
-- [ ] Research Memo
+- [x] Controlled Experiment / Ablation
+- [x] Error Analysis
+- [x] Research Memo
 
 "@ | Set-Content README.md

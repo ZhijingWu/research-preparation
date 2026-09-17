@@ -22,6 +22,14 @@ env/
 
 repos/
 
+# Advisor discussion materials
+*.docx
+*.pdf
+~$*.docx
+
+# Local presentation screenshots
+week4_research-training/*.png
+
 # OS
 .DS_Store
 Thumbs.db
